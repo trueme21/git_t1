@@ -1,0 +1,47 @@
+echo "[create new repository]"
+echo " git init"
+echo ""
+
+echo "[clone repository]"
+echo " git clone swkim1@localhost:/team/adteam/2020/dram_controller [direcotry-option]"
+echo ""
+
+echo "[status check]"
+echo " git status"
+echo ""
+
+echo "[get latest version]"
+echo " git pull"
+echo ""
+
+echo "[get some file on latest version]"
+echo " git checkout [file name]"
+echo ""
+
+echo "[show history]"
+echo " git log"
+echo " git log -n [number]"
+echo ""
+
+echo "[get previous version]"
+echo " git checkout [branch-name]"
+echo ""
+
+echo "[file add or change]"
+echo " git add [files name]"
+echo " git commit"
+echo " git push origin master"
+echo ""
+
+echo "[file delete]"
+echo " git rm [files name]"
+echo " git commit"
+echo " git push origin master"
+echo ""
+
+echo "[file move]"
+echo " git mv [files name]"
+echo " git commit"
+echo " git push origin master"
+echo ""
+
